@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-18)
+## Unreleased (2025-04-25)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ee26dcf`](https://github.com/stdlib-js/stdlib/commit/ee26dcf73ee8b2265231fc8b960e20d564869198) - **docs:** document exceptions in `blas/base/dtrsv` [(#6743)](https://github.com/stdlib-js/stdlib/pull/6743) _(by Shabareesh Shetty)_
 -   [`da11963`](https://github.com/stdlib-js/stdlib/commit/da1196318bfe07b24ab957208bac00d97e8aa3bf) - **test:** add test cases for `blas/base/dtrsv` [(#6708)](https://github.com/stdlib-js/stdlib/pull/6708) _(by Shabareesh Shetty)_
 -   [`4ca068f`](https://github.com/stdlib-js/stdlib/commit/4ca068f174225d1eaec123656682589febf1b547) - **test:** update to test for exact equality [(#2864)](https://github.com/stdlib-js/stdlib/pull/2864) _(by Aman Bhansali)_
 -   [`e0cef99`](https://github.com/stdlib-js/stdlib/commit/e0cef995e884021db3001dc1a3cfef0ca7b368c2) - **style:** remove extra spaces for regular expressions in publish script _(by Philipp Burckhardt)_
