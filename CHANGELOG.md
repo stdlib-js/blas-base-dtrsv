@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-25)
+## Unreleased (2025-05-19)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`73df28f`](https://github.com/stdlib-js/stdlib/commit/73df28f560c71e48e82d17375dc5ef3c8364b769) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`ee26dcf`](https://github.com/stdlib-js/stdlib/commit/ee26dcf73ee8b2265231fc8b960e20d564869198) - **docs:** document exceptions in `blas/base/dtrsv` [(#6743)](https://github.com/stdlib-js/stdlib/pull/6743) _(by Shabareesh Shetty)_
 -   [`da11963`](https://github.com/stdlib-js/stdlib/commit/da1196318bfe07b24ab957208bac00d97e8aa3bf) - **test:** add test cases for `blas/base/dtrsv` [(#6708)](https://github.com/stdlib-js/stdlib/pull/6708) _(by Shabareesh Shetty)_
 -   [`4ca068f`](https://github.com/stdlib-js/stdlib/commit/4ca068f174225d1eaec123656682589febf1b547) - **test:** update to test for exact equality [(#2864)](https://github.com/stdlib-js/stdlib/pull/2864) _(by Aman Bhansali)_
@@ -38,9 +39,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
+-   Athan Reines
 -   Philipp Burckhardt
 -   Shabareesh Shetty
 
