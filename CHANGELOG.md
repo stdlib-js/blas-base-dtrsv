@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-18)
+## Unreleased (2025-09-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d94514b`](https://github.com/stdlib-js/stdlib/commit/d94514bc9418f5b42df6233204d5005d53af00ca) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
 -   [`67e3e62`](https://github.com/stdlib-js/stdlib/commit/67e3e626914282ea5dafe86d603e446fb2679890) - **docs:** update param description in `blas/base/dtrsv` [(#7384)](https://github.com/stdlib-js/stdlib/pull/7384) _(by Aayush Khanna)_
 -   [`c67ccf3`](https://github.com/stdlib-js/stdlib/commit/c67ccf3815cf568888df36136427047cb98049e9) - **test:** add test cases for `blas/base/dtrsv` [(#7165)](https://github.com/stdlib-js/stdlib/pull/7165) _(by Shabareesh Shetty)_
 -   [`73df28f`](https://github.com/stdlib-js/stdlib/commit/73df28f560c71e48e82d17375dc5ef3c8364b769) - **refactor:** use base assertion utility _(by Athan Reines)_
