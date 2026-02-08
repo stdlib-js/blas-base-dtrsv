@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dtrsv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dtrsv@esm/index.mjs';
+import dtrsv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dtrsv@v0.1.1-esm/index.mjs';
 ```
 
 #### dtrsv( order, uplo, trans, diag, N, A, LDA, x, sx )
@@ -162,7 +162,7 @@ dtrsv.ndarray( 'upper', 'no-transpose', 'unit', 3, A, 3, 1, 0, x, -1, 2 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dtrsv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dtrsv@esm/index.mjs';
+import dtrsv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dtrsv@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
