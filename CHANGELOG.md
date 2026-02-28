@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-28)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`637d083`](https://github.com/stdlib-js/stdlib/commit/637d0837af7524404e244e128e237a07f2e30819) - **bench:** use string interpolation in `blas/base/dtrsv` [(#10552)](https://github.com/stdlib-js/stdlib/pull/10552) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
