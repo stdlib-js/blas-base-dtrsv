@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-11)
+## Unreleased (2026-06-07)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#11452](https://github.com/stdlib-js/stdlib/issues/11452)
+[#11452](https://github.com/stdlib-js/stdlib/issues/11452), [#12305](https://github.com/stdlib-js/stdlib/issues/12305)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`32b7db2`](https://github.com/stdlib-js/stdlib/commit/32b7db285319cc63791eb5f232fb3bf6dc4409e9) - **chore:** fix JavaScript lint errors [(#12678)](https://github.com/stdlib-js/stdlib/pull/12678) _(by titanniya542-spec)_
 -   [`f36ea49`](https://github.com/stdlib-js/stdlib/commit/f36ea4994d75e6cc36a9447388918bf0a0d984e8) - **test:** incorrect fixture import path in `dtrsv` [(#11453)](https://github.com/stdlib-js/stdlib/pull/11453) _(by Divit Jain)_
 -   [`637d083`](https://github.com/stdlib-js/stdlib/commit/637d0837af7524404e244e128e237a07f2e30819) - **bench:** use string interpolation in `blas/base/dtrsv` [(#10552)](https://github.com/stdlib-js/stdlib/pull/10552) _(by Om-A-osc)_
 
@@ -37,10 +38,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Divit Jain
 -   Om-A-osc
+-   titanniya542-spec
 
 </section>
 
